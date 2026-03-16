@@ -1,0 +1,19 @@
+# Generated figures
+output/figures/*.pdf
+output/figures/*.png
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+.idea
